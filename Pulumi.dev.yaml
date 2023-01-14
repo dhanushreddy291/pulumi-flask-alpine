@@ -1,0 +1,7 @@
+config:
+  pulumi-flask-docker:password:
+    secure: ########
+  pulumi-flask-docker:server:
+    secure: #########
+  pulumi-flask-docker:username:
+    secure: #########
